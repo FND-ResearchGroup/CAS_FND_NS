@@ -1,4 +1,4 @@
-# HEP in FND
+# CAS in FND
 
  date: 		18 September 2025
  author: 	Natascha Stoffel, natascha.stoffel@unifr.ch
