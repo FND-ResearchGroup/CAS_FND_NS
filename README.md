@@ -21,7 +21,7 @@ This repository will be structured as follows (please note that the data and cod
 #### Data :		
 -  Data Dictionary
 -  excel file with CRF data from those people who gave consent on further use of the data
--  NOTE that the raw EEG files of the people who gave consent on further use of the data can be found here: https://www.doi.org/10.5281/zenodo.15437728   
+-  NOTE that the raw EEG/ECG files of the people who gave consent on further use of the data can be found here: https://www.doi.org/10.5281/zenodo.15437728   
 
 
 #### Publication :
