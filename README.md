@@ -1,12 +1,12 @@
 # CAS in FND
 
- date: 		26 August 2026
+ date: 		26 August 2026 - update November 2026
  authors: 	Natascha Stoffel, natascha.stoffel@unifr.ch
 			Michael Mouthon, michael.mouthon@unifr.ch
  
-This git hub repository entails the data, scripts and output for the project "Altered Predictive Coding in Functional Neurological Disorders" - Stoffel & Mouthon et al., submitted to the Special Edition of Psychophysiology (Bridging Neural and Bodily Signals: Techniques, Methods, and Theoretical Advancements)
+This git hub repository entails the data, scripts and output for the project "Altered Predictive Coding in Functional Neurological Disorders" - Stoffel & Mouthon et al., published in the Special Edition of Psychophysiology (Bridging Neural and Bodily Signals: Techniques, Methods, and Theoretical Advancements) https://doi.org/10.1111/psyp.70417
 
-This repository will be structured as follows (please note that the data and code will be made available once the manuscript is published)
+This repository is structured as follows (please note that the data and code will be made available once the manuscript is published)
 
 
 #### Experimental Scripts:
